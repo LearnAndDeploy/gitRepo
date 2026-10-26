@@ -1,1 +1,2 @@
 This is the first line of the file3.txt file
+Sacrifice has a painful start but a gainful end
